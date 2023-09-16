@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshit Pandey</h1>
 <h3 align="center">A CSE undergrad from Birla Institute of applied sciences</h3>
 
-- 🌱 I’m currently learning **DSA, Django, Development.**
+- 🌱 I’m currently learning **DSA, React, JavaScript.**
 
 - 📫 How to reach me **pandeyharshit268@gmail.com**
 
